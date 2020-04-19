@@ -8,9 +8,24 @@ namespace PizzaStore
 {
     class PizzaStore
     {
-        public void OrderPizza()
+        public void OrderPizza(String type)
         {
-            var pizza = new CheesePizza();
+            Pizza pizza;
+            switch (type)
+            {
+                case "cheese":
+                    pizza = new CheesePizza();
+                    break;
+                case "greek":
+                    pizza = new GreekPizza();
+                    break;
+                case "pepperoni":
+                pizza = new PepperoniPizza();
+                    break;
+                default:
+                    Console.WriteLine("We donot have this type of pizza.");
+                    return;
+            }
             pizza.Prepare();
             pizza.Bake();
             pizza.Cut();
