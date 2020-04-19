@@ -1,0 +1,6 @@
+D:\data\e-learning\LT-Huong-doi-tuong\Pizza\PizzaStore\PizzaStore\bin\Debug\PizzaStore.exe.config
+D:\data\e-learning\LT-Huong-doi-tuong\Pizza\PizzaStore\PizzaStore\bin\Debug\PizzaStore.exe
+D:\data\e-learning\LT-Huong-doi-tuong\Pizza\PizzaStore\PizzaStore\bin\Debug\PizzaStore.pdb
+D:\data\e-learning\LT-Huong-doi-tuong\Pizza\PizzaStore\PizzaStore\obj\Debug\PizzaStore.csprojResolveAssemblyReference.cache
+D:\data\e-learning\LT-Huong-doi-tuong\Pizza\PizzaStore\PizzaStore\obj\Debug\PizzaStore.exe
+D:\data\e-learning\LT-Huong-doi-tuong\Pizza\PizzaStore\PizzaStore\obj\Debug\PizzaStore.pdb
